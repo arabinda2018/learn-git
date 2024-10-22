@@ -13,6 +13,7 @@ public class D {
 	}
 
 	public void test2() {
+		System.out.println("Switched to master");
 		System.out.println(this.i);
 	}
 
