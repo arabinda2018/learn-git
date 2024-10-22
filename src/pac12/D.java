@@ -14,6 +14,7 @@ public static void test() {
 
 public void test2() {
 	System.out.println(this.i);
+	System.out.println("Added new line");
 }
 
 
