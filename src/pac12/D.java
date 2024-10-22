@@ -12,10 +12,10 @@ public class D {
 		System.out.println(this.i);
 	}
 
-	public void test2() {
-		System.out.println("Switched to master");
-		System.out.println(this.i);
-	}
 
-
+public void test2() {
+	System.out.println("added");
+	System.out.println(this.i);
+	System.out.println("Added new line");
+}
 }
