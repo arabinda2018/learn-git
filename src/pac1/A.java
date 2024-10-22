@@ -14,6 +14,7 @@ public static void main(String[] args) {
 	
 	A a = new A();
 	System.out.println(a.i);
+	System.out.println("fix1 added");
 }
 
 }
