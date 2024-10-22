@@ -5,7 +5,7 @@ public class G {
 	// inside sib
 	int i;
 	static {
-		i = 30;
+	//get error 	i = 30;
 	}
 
 	public static void main(String[] args) {
