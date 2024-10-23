@@ -6,6 +6,6 @@ public class B {
 	}
 	public static void main(String[] args) {
 		B b1=new B();//remove unwanted space
-		B b2 =new B();
+		B b3= new B();
 	}
 }
